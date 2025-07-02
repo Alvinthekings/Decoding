@@ -1,5 +1,6 @@
 body {
   font-family: Arial, sans-serif;
+<<<<<<< HEAD
   text-align: center;
   margin: 0;
   padding: 0;
@@ -24,4 +25,12 @@ button {
 
 button:hover {
   background-color: #0056b3;
+=======
+  background-color: #f9f9f9;
+  text-align: center;
+  margin-top: 50px;
+}
+h1 {
+  color: #333;
+>>>>>>> e64ccd35ac1a1d9456aeeb03c044aca54a707527
 }
